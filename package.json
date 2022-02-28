@@ -6,6 +6,7 @@
     "cross-env": "^5.1.4",
     "eslint": "^8.10.0",
     "eslint-config-prettier": "^8.4.0",
+    "eslint-plugin-flowtype": "^8.0.3",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.29.2",
     "husky": "^7.0.0",
