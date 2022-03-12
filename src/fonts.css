@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'JetBrainsMono';
+  font-style: normal;
+  font-weight: normal;
+  src: url("./fonts/JetBrainsMono/Regular/JetBrainsMono-Regular.eot") format("eot");
+}
+@font-face {
+  font-family: 'JetBrainsMono';
+  font-style: normal;
+  font-weight: normal;
+  src: url("./fonts/JetBrainsMono/Regular/JetBrainsMono-Regular.svg") format("svg");
+}
+@font-face {
+  font-family: 'JetBrainsMono';
+  font-style: normal;
+  font-weight: normal;
+  src: url("./fonts/JetBrainsMono/Regular/JetBrainsMono-Regular.ttf") format("ttf");
+}
+@font-face {
+  font-family: 'JetBrainsMono';
+  font-style: normal;
+  font-weight: normal;
+  src: url("./fonts/JetBrainsMono/Regular/JetBrainsMono-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 700;
+  src: url("./fonts/Exo2/Bold/Exo2-Bold.eot") format("eot");
+}
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 700;
+  src: url("./fonts/Exo2/Bold/Exo2-Bold.svg") format("svg");
+}
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 700;
+  src: url("./fonts/Exo2/Bold/Exo2-Bold.ttf") format("ttf");
+}
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 700;
+  src: url("./fonts/Exo2/Bold/Exo2-Bold.woff2") format("woff2");
+}

@@ -2,6 +2,7 @@ import ReactDOM from "react-dom";
 import { Provider } from "react-redux";
 import React from "react";
 import { store, history } from "./store";
+import "./fonts.css";
 import "./style.css";
 
 import { Route, Switch } from "react-router-dom";

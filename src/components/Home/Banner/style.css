@@ -9,6 +9,7 @@
 
 .banner__title {
   margin-bottom: 8px;
+  font-family: 'Exo 2';
   font-weight: 700;
   font-size: 64px;
   line-height: 1;
@@ -21,6 +22,7 @@
 }
 
 .banner__subtitle {
+  font-family: 'Exo 2';
   font-weight: 700;
   font-size: 24px;
   line-height: 1;
