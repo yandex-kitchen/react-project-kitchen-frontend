@@ -4,9 +4,8 @@
     style: normal;
     weight: 400;
   }
-  src: url('./JetBrainsMono/webfonts/JetBrainsMono-Regular.woff2')
-      format('woff2'),
-    url('./JetBrainsMono/ttf/JetBrainsMono-Regular.ttf') format('truetype');
+  src: url('./JetBrainsMono/JetBrainsMono-Regular.woff2') format('woff2'),
+    url('./JetBrainsMono/JetBrainsMono-Regular.woff') format('woff');
 }
 
 @font-face {
@@ -15,8 +14,8 @@
     style: normal;
     weight: 700;
   }
-  src: url('./JetBrainsMono/webfonts/JetBrainsMono-Bold.woff2') format('woff2'),
-    url('./JetBrainsMono/ttf/JetBrainsMono-Bold.ttf') format('truetype');
+  src: url('./JetBrainsMono/JetBrainsMono-Bold.woff2') format('woff2'),
+    url('./JetBrainsMono/JetBrainsMono-Bold.woff') format('woff');
 }
 
 @font-face {
@@ -26,8 +25,7 @@
     weight: 400;
   }
   src: url('./Exo2/Exo2-Regular.woff2') format('woff2'),
-    url('./Exo2/Exo2-Regular.woff') format('woff'),
-    url('./Exo2/Exo2-Regular.ttf') format('truetype');
+    url('./Exo2/Exo2-Regular.woff') format('woff');
 }
 
 @font-face {
@@ -37,6 +35,5 @@
     weight: 700;
   }
   src: url('./Exo2/Exo2-Bold.woff2') format('woff2'),
-    url('./Exo2/Exo2-Bold.woff') format('woff'),
-    url('./Exo2/Exo2-Bold.ttf') format('truetype');
+    url('./Exo2/Exo2-Bold.woff') format('woff');
 }
