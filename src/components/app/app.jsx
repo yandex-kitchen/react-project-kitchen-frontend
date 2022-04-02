@@ -1,9 +1,9 @@
-import React from 'react';
+import React from 'react'
 
-import styles from './app.module.scss';
+import styles from './app.module.scss'
 
 const App = () => {
-  return <div className={styles.page}></div>;
-};
+  return <div className={styles.page}></div>
+}
 
-export default App;
+export default App
